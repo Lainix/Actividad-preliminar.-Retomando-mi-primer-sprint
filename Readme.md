@@ -3,9 +3,9 @@
 ***
 
 ### Calendario De Reuniones:
-Sábado 3 de octubre 2020, 11:00am, 11:30am, Duración 30 minutos.
-Sábado 3 de octubre 2020, 7pm, 7:30pm, Duración 30 minutos.
-Sábado 3 de octubre 2020, 7pm, 7:30pm, Duración 30 minutos.
+* Sábado 3 de octubre 2020, 11:00am, 11:30am, Duración 30 minutos.
+* Sábado 3 de octubre 2020, 7pm, 7:30pm, Duración 30 minutos.
+* Sábado 3 de octubre 2020, 7pm, 7:30pm, Duración 30 minutos.
 
 Calendario: 
 ![calendario](./reunion.PNG "Calendario De Reuniones")
